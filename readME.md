@@ -6,14 +6,15 @@ Personal website for Oscar Johnson to show help show the projects I have created
 Also to help give background information about what I have done.
     <br><br>
 ### Specs & Versions
-| Category          | Type         | Version     |
-|-------------------|--------------|-------------|
-| Server            | Apache       | 8.5.98      |    
-| Database          | MySQL        | 8.3.0       |
-| CSS Framework     | TailWind     | unsure      |
-| Front-End         | React.js     | unsure      |
-| Back-End          | Jakarta      | unsure      |
+| Category          | Type         |
+|-------------------|--------------|
+| Server            | Apache       |   
+| Database          | MySQL        |
+| CSS Framework     | Tailwind     |
+| Front-End         | React.js     |
+| Back-End          | Jakarta      |
 
 ### Links
-- [User Stories](resources/UserStories.md)
-- [Screen Design](resources/FitApp-Screen-Design.png)
+- [User Stories](resources\UserStories.md)
+- [Screen Design](resources\wireframes\Personal%20Website%20Wireframe.png)
+- [Resources](resources\Resources.md)
